@@ -69,8 +69,8 @@ sudo ./iod-setup base
 ```
 sudo ./iod-setup sdk -sdk iphoneos
 ```
-
-大功告成。启动xcode，新建工程，就可以看到iOSOpenDev了。
 ![截屏2020-03-24上午12.47.09.png](https://static.objc.com/2020/3/T2y2ZIrpu3MxDywN3TUPgyz3bYbeKLR6okEWmn4HiAo2KEzoGzFFTaxQJq6cOb5K "截屏2020-03-24上午12.47.09.png")
+大功告成。启动xcode，新建工程，就可以看到iOSOpenDev了。
+![截屏2020-03-24上午1.00.46.png](https://static.objc.com/2020/3/AeN7vZuna8W9O3jCbRRrKWSN5xvVtEgHfZO6oazOIo4wm5NPWgmSvMXMK0sfRLqt "截屏2020-03-24上午1.00.46.png")
 
 参考资料：https://www.ianisme.com/ios/2319.html
