@@ -1,0 +1,2 @@
+# iOSOpenDevSpecifications
+Mac安装iOSOpenDev 的Specifications文件
